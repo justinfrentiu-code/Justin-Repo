@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Justin
 Installed-Size: 64
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.justin.clockweather_0.0.1-9+debug_iphoneos-arm.deb
+Filename: https://cydia-download-counter.justinfrentiu.workers.dev/download/clockweather/com.justin.clockweather_0.0.1-9+debug_iphoneos-arm.deb
 Size: 65560
 MD5sum: 409e233366e6920b6a4566acf3a28f73
 SHA1: 5d03e8a8f17fef8187837d1a60849b7a24f26588
@@ -20,7 +20,7 @@ Architecture: iphoneos-arm
 Maintainer: Justin
 Installed-Size: 5964
 Depends: firmware (>= 9.0)
-Filename: debs/com.justin.justingpt_1.0-26_iphoneos-arm.deb
+Filename: https://cydia-download-counter.justinfrentiu.workers.dev/download/brickblaze/com.justin.justingpt_1.0-26_iphoneos-arm.deb
 Size: 5169142
 MD5sum: 846fe4f8a695de2c88d1bbaee5c6fcf6
 SHA1: 3483bf5fd65ff274007557c60b30b2a279f3d597
@@ -36,7 +36,7 @@ Architecture: iphoneos-arm
 Maintainer: Justin
 Installed-Size: 56
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.justin.powerbars_0.0.1-18_iphoneos-arm.deb
+Filename: https://cydia-download-counter.justinfrentiu.workers.dev/download/powerbars/com.justin.powerbars_0.0.1-18_iphoneos-arm.deb
 Size: 58564
 MD5sum: e70538cd550b48c2f23fd85142dfb4ce
 SHA1: 5c84355249ffc405dd52453ec82ecd1874e1c1fc
