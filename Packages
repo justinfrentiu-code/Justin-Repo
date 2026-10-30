@@ -1,14 +1,14 @@
 Package: com.justin.clockweather
-Version: 0.0.1-9+debug
+Version: 0.0.1-10
 Architecture: iphoneos-arm
 Maintainer: Justin
-Installed-Size: 64
+Installed-Size: 60
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: https://cydia-download-counter.justinfrentiu.workers.dev/download/clockweather/com.justin.clockweather_0.0.1-9+debug_iphoneos-arm.deb
-Size: 65560
-MD5sum: 409e233366e6920b6a4566acf3a28f73
-SHA1: 5d03e8a8f17fef8187837d1a60849b7a24f26588
-SHA256: 8a7cdf2df6dfd874eb826e2f128dbc99f68b3e8972de9363264d152f233eb141
+Filename: https://cydia-download-counter.justinfrentiu.workers.dev/download/clockweather/com.justin.clockweather_0.0.1-10_iphoneos-arm.deb
+Size: 59384
+MD5sum: e92593b2b2d0f09983c2007bdf57d1b2
+SHA1: 6b78e03a458314a66db42618af00fecb653177cd
+SHA256: fb0ac045de53ec133d26c4674322a67146ec04ee86667fe2835e8a8d66198644
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Justin
