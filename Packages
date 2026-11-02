@@ -1,3 +1,19 @@
+Package: com.justin.brickblaze
+Version: 1.0-27
+Architecture: iphoneos-arm
+Maintainer: Justin
+Installed-Size: 5964
+Depends: firmware (>= 9.0)
+Filename: debs/com.justin.brickblaze_1.0-27_iphoneos-arm.deb
+Size: 5169146
+MD5sum: 879f4b9101d680475bb4899299501027
+SHA1: c20d5df4c05866e0db50b57899bcd5004ac37974
+SHA256: 0ff0adcbda3738f79783bdd06a6f4db2de4cb0f7630a8f8902901841e96ca4be
+Section: Games
+Description: 2D arcade brick breaker game for iPod touch.
+Author: Justin
+Name: BrickBlaze
+
 Package: com.justin.clockweather
 Version: 0.0.1-10
 Architecture: iphoneos-arm
@@ -13,22 +29,6 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Justin
 Name: ClockWeather
-
-Package: com.justin.justingpt
-Version: 1.0-26
-Architecture: iphoneos-arm
-Maintainer: Justin
-Installed-Size: 5964
-Depends: firmware (>= 9.0)
-Filename: debs/com.justin.justingpt_1.0-26_iphoneos-arm.deb
-Size: 5169142
-MD5sum: 846fe4f8a695de2c88d1bbaee5c6fcf6
-SHA1: 3483bf5fd65ff274007557c60b30b2a279f3d597
-SHA256: 98fe46bd8e2b05d93a06c4d9a02e42cfb51d442b8e845bcc059c732490331cf2
-Section: Games
-Description: 2D arcade brick breaker game for iPod touch.
-Author: Justin
-Name: BrickBlaze
 
 Package: com.justin.powerbars
 Version: 0.0.1-18
