@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Justin
 Installed-Size: 60
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: download/clockweather/com.justin.clockweather_0.0.1-10_iphoneos-arm.deb
+Filename: debs/com.justin.clockweather_0.0.1-10_iphoneos-arm.deb
 Size: 59384
 MD5sum: e92593b2b2d0f09983c2007bdf57d1b2
 SHA1: 6b78e03a458314a66db42618af00fecb653177cd
@@ -20,7 +20,7 @@ Architecture: iphoneos-arm
 Maintainer: Justin
 Installed-Size: 5964
 Depends: firmware (>= 9.0)
-Filename: download/brickblaze/com.justin.justingpt_1.0-26_iphoneos-arm.deb
+Filename: debs/com.justin.justingpt_1.0-26_iphoneos-arm.deb
 Size: 5169142
 MD5sum: 846fe4f8a695de2c88d1bbaee5c6fcf6
 SHA1: 3483bf5fd65ff274007557c60b30b2a279f3d597
@@ -36,7 +36,7 @@ Architecture: iphoneos-arm
 Maintainer: Justin
 Installed-Size: 56
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: download/powerbars/com.justin.powerbars_0.0.1-18_iphoneos-arm.deb
+Filename: debs/com.justin.powerbars_0.0.1-18_iphoneos-arm.deb
 Size: 58564
 MD5sum: e70538cd550b48c2f23fd85142dfb4ce
 SHA1: 5c84355249ffc405dd52453ec82ecd1874e1c1fc
@@ -50,4 +50,20 @@ Description: Lightweight battery bars for jailbroken iOS.
  Developed by Justin with development assistance from ChatGPT (OpenAI).
 Author: Justin, ChatGPT (OpenAI)
 Name: PowerBars
+
+Package: com.justin.quickpanel9
+Version: 0.0.1-16
+Architecture: iphoneos-arm
+Maintainer: Justin
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: debs/com.justin.quickpanel9_0.0.1-16_iphoneos-arm.deb
+Size: 76788
+MD5sum: aa0b3d431b70874b92f1a39003309866
+SHA1: ef235133efa074848702ab288f95554623afc9af
+SHA256: b4e810d186cfb2505c38f895efdb6d87f1498a3815e268602be4b96c3660cb38
+Section: Tweaks
+Description: Neon Control Center for iPod Touch 5.
+Author: Justin
+Name: QuickPanel 9
 
