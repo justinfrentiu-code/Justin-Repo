@@ -67,3 +67,33 @@ Description: Neon Control Center for iPod Touch 5.
 Author: Justin
 Name: QuickPanel 9
 
+
+Package: com.justin.musichifi
+Name: MusicHiFi
+Version: 1.0-1-112
+Architecture: iphoneos-arm
+Maintainer: Justin
+Author: Justin
+Section: Multimedia
+Depends: firmware (>= 9.0)
+Installed-Size: 780
+Filename: ./debs/com.justin.musichifi_1.0-1-112_iphoneos-arm.deb
+Size: 784696
+MD5sum: ec1738656ccdf12d1cdc1ce82cf8f5b5
+SHA1: 44df9b1afd43e5e93e5d868e8a95f6b72eff5e55
+SHA256: d57ef435178acfeec1e9966b850d8dd1ccd04469b761b900fa283e4a3409927a
+Description: Premium music player with FLAC, MP3, WAV, AAC and M4A support.
+ A high-quality music player featuring a 10-band equalizer,
+ crossfade audio playback and a premium interface.
+ .
+ Device compatibility (expected, not individually tested):
+ - iPod touch 5th generation (iPod5,1).
+ - iPod touch 6th generation (iPod7,1), iOS 10 or earlier.
+ - iPhone 4S, iPhone 5 and iPhone 5C.
+ - iPad 2, iPad 3, iPad 4 and iPad mini 1st generation.
+ .
+ Requires iOS 9.0 or later with 32-bit ARM application support.
+ Not compatible with iOS 11 or later.
+ .
+ Enjoying MusicHiFi? Support its continued development:
+ https://paypal.me/sendmeboss
