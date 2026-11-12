@@ -31,16 +31,16 @@ Author: Justin
 Name: ClockWeather
 
 Package: com.justin.musichifi
-Version: 1.0-1-113
+Version: 1:1.0-1-113
 Architecture: iphoneos-arm
 Maintainer: Justin
 Installed-Size: 820
 Depends: firmware (>= 9.0)
 Filename: debs/com.justin.musichifi_1.0-1-113_iphoneos-arm.deb
 Size: 826690
-MD5sum: 77aa274ea08649795ec71b97da132731
-SHA1: 609e48dc8d6ee12eda10df0291a72b544e775dc9
-SHA256: 193b6fb1cdb63f3d2303538d1fe9d49e254bae3dc235a46182b23158c7b36cb2
+MD5sum: 35131c41bf1603ae6b3b327399ad0c78
+SHA1: 3dc2ccf8857a0767bde05aa7e87ec2980617b3be
+SHA256: 1d83ababf56c1990378b280478c8f0f28a587f5e5f9564cb5fa63e3684ed7777
 Section: Multimedia
 Description: Premium music player with FLAC, MP3, WAV, AAC and M4A support.
  A high-quality music player featuring a 10-band equalizer,
